@@ -1,0 +1,31 @@
+﻿Build started 9/7/2011 10:19:34 PM.
+     1>Project "C:\Users\Owner\Documents\Visual Studio 2010\Projects\ex31\ex31.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\ex31.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\ex31.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\ex31.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ex31.cpp
+         ex31.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\ex31.exe.embed.manifest.res" Debug\ex31_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Owner\Documents\Visual Studio 2010\Projects\ex31\Debug\ex31.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ex31.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Owner\Documents\Visual Studio 2010\Projects\ex31\Debug\ex31.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Owner\Documents\Visual Studio 2010\Projects\ex31\Debug\ex31.lib" /MACHINE:X86 Debug\ex31.exe.embed.manifest.res
+         Debug\ex31.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ex31.exe.embed.manifest" /manifest Debug\ex31.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\ex31.exe.embed.manifest.res" Debug\ex31_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Owner\Documents\Visual Studio 2010\Projects\ex31\Debug\ex31.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ex31.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Owner\Documents\Visual Studio 2010\Projects\ex31\Debug\ex31.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Owner\Documents\Visual Studio 2010\Projects\ex31\Debug\ex31.lib" /MACHINE:X86 Debug\ex31.exe.embed.manifest.res
+         Debug\ex31.obj
+         Debug\stdafx.obj
+         ex31.vcxproj -> C:\Users\Owner\Documents\Visual Studio 2010\Projects\ex31\Debug\ex31.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\ex31.unsuccessfulbuild".
+         Touching "Debug\ex31.lastbuildstate".
+     1>Done Building Project "C:\Users\Owner\Documents\Visual Studio 2010\Projects\ex31\ex31.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.46
